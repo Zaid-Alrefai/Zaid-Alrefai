@@ -12,7 +12,7 @@ Cybersecurity student at the University of Petra (Amman, Jordan), building secur
 ### Offensive security
 
 - **PleaseHackMe: 1 (VulnHub)** — recon, exposed SeedDMS install, leaked DB creds, admin hash swap, PHP web shell RCE, sudo misconfig, root. [Box](https://www.vulnhub.com/entry/hack-me-please-1,731/)
-- Diagnosed and resolved a Cisco Umbrella false-positive phishing classification directly with Cisco Talos (Web Reputation + Content Categorization tickets)
+- Identified a Cisco Umbrella phishing false-positive blocking a production domain for an international federation partner; verified it was clean via VirusTotal (0/89 vendors flagged), then filed and closed a Cisco Talos reputation-dispute ticket to get it reclassified
 
 ### Network & Security Programming (3-phase project)
 
