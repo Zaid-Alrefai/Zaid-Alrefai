@@ -12,7 +12,6 @@ Cybersecurity student at the University of Petra (Amman, Jordan), building secur
 ### Offensive security
 
 - **PleaseHackMe: 1 (VulnHub)** — recon, exposed SeedDMS install, leaked DB creds, admin hash swap, PHP web shell RCE, sudo misconfig, root. [Box](https://www.vulnhub.com/entry/hack-me-please-1,731/)
-- **The Planets: Earth (VulnHub)** — full compromise to root. [Box](https://www.vulnhub.com/entry/the-planets-earth,755/)
 - Diagnosed and resolved a Cisco Umbrella false-positive phishing classification directly with Cisco Talos (Web Reputation + Content Categorization tickets)
 
 ### Network & Security Programming (3-phase project)
@@ -33,8 +32,6 @@ A Python project spanning reconnaissance, offensive tooling, and defensive crypt
 ### Also on the coursework side
 
 - SOC/detection-engineering project — Windows endpoint monitoring with Sysmon, MITRE ATT&CK mapping, custom detection rules
-- Vulnerability assessment with OWASP ZAP against OWASPBWA and Altoro Mutual
-- Digital forensics investigation of a messaging-app case
 
 ---
 
